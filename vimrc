@@ -27,6 +27,7 @@ Plugin 'scrooloose/syntastic'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
+let g:airline_powerline_fonts = 1
 
 set number 
 set relativenumber
