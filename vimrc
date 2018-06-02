@@ -14,6 +14,8 @@ Plugin 'VundleVim/Vundle.vim'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
+Plugin 'scrooloose/syntastic'
+
 set number 
 set relativenumber
 
