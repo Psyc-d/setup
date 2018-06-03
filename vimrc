@@ -24,7 +24,6 @@ Plugin 'miyakogi/seiya.vim'
 Plugin 'scrooloose/syntastic'
 Plugin 'jiangmiao/auto-pairs'
 Plugin 'Yggdroot/indentLine'
-Plugin 'sheerun/vim-polyglot'
 Plugin 'scrooloose/nerdtree'
 Plugin 'tpope/vim-surround'
 
